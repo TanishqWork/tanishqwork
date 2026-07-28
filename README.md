@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**TanishqWork/tanishqwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Backend+Engineer;Building+LLM+Applications;FastAPI+Developer;React+Developer;Open+Source+Contributor&center=true&width=700&height=70">
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🚀 Building AI Products
+- 🤖 Agentic AI
+- ⚡ FastAPI
+- 🌎 React
+- 🧠 LangGraph
+- 💡 LLM Applications
+
+---
+
+## 🛠 Skills
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,ts,docker,postgres,mongodb,aws,git"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tanishqwork&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqwork)
+
+![Streak](https://streak-stats.demolab.com/?user=tanishqwork)
+
+---
+
+## 🐍 Contribution Snake
+
+(Generated using GitHub Action)
+
+---
+
+## Visitor Count
+
+![](https://komarev.com/ghpvc/?username=tanishqwork)
+
+---
+
+## Activity Graph
+
+https://github-readme-activity-graph.vercel.app
+
+---
+
+## Quote
+
+> "The best way to predict the future is to build it."
