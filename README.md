@@ -161,7 +161,7 @@ const tanishq = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanishqwork&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+<img src="./assets/achievements.svg" alt="Capability matrix" width="100%" />
 
 </div>
 
